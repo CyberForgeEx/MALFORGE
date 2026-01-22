@@ -227,7 +227,7 @@ Users must:
 ### Additional Learning
 
 - **[LOLBins](https://lolbas-project.github.io/)** - Living Off The Land Binaries and Scripts
-- **[Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)** - Curated list of Windows security resources
+- **[Awesome Windows Exploitation](https://github.com/ByteHackr/WindowsExploitation)** - Curated list of Windows security resources
 - **[Pentester Academy](https://www.pentesteracademy.com/)** - Offensive security training
 - **[SANS Reading Room](https://www.sans.org/white-papers/)** - Security research papers
 
